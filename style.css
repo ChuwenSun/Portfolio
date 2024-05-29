@@ -288,6 +288,7 @@ p {
   align-items: center;
 }
 
+
 #aboutMe,
 #skillsDiv {
   padding-bottom: 70px;
@@ -409,8 +410,8 @@ button:hover {
 #travel {
   background-image: url("/assets/hobbies/travel.png");
 }
-#swim {
-  background-image: url("/assets/hobbies/swim.png");
+#music {
+  background-image: url("/assets/hobbies/music.svg");
 }
 #run {
   background-image: url("/assets/hobbies/jog.png");
@@ -418,14 +419,14 @@ button:hover {
 #tv {
   background-image: url("/assets/hobbies/tv.png");
 }
-#hp {
-  background-image: url("/assets/hobbies/hp.png");
+#lift {
+  background-image: url("/assets/hobbies/gym.svg");
 }
 #pho {
   background-image: url("/assets/hobbies/noodles.png");
 }
-#sushi {
-  background-image: url("/assets/hobbies/sushi.png");
+#cook {
+  background-image: url("/assets/hobbies/cook.svg");
 }
 
 .techDiv {
@@ -544,10 +545,10 @@ button:hover {
 }
 
 #raceslide1 {
-  background-image: url("/assets/Backpackers/menu.gif");
+  background-image: url("/assets/Backpackers/floras.png");
 }
 #raceslide2 {
-  background-image: url("/assets/Backpackers/floras.png");
+  background-image: url("/assets/Backpackers/menu.gif");
 }
 #raceslide3 {
   background-image: url("/assets/Backpackers/Flora.png");
@@ -756,7 +757,9 @@ footer {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  margin-top: 100px;
 }
+
 
 #footer-links {
   display: flex;
