@@ -411,22 +411,22 @@ button:hover {
   background-image: url("assets/hobbies/travel.png");
 }
 #music {
-  background-image: url("/assets/hobbies/music.svg");
+  background-image: url("assets/hobbies/music.svg");
 }
 #run {
-  background-image: url("/assets/hobbies/jog.png");
+  background-image: url("assets/hobbies/jog.png");
 }
 #tv {
-  background-image: url("/assets/hobbies/tv.png");
+  background-image: url("assets/hobbies/tv.png");
 }
 #lift {
-  background-image: url("/assets/hobbies/gym.svg");
+  background-image: url("assets/hobbies/gym.svg");
 }
 #pho {
-  background-image: url("/assets/hobbies/noodles.png");
+  background-image: url("assets/hobbies/noodles.png");
 }
 #cook {
-  background-image: url("/assets/hobbies/cook.svg");
+  background-image: url("assets/hobbies/cook.svg");
 }
 
 .techDiv {
@@ -533,51 +533,51 @@ button:hover {
   background-image: url("assets/recipix/recipixslide2.png");
 }
 #recipixslide3 {
-  background-image: url("/assets/recipix/recipixslide3.png");
+  background-image: url("assets/recipix/recipixslide3.png");
   background-size: contain;
 }
 #recipixslide4 {
-  background-image: url("/assets/recipix/recipixslide4.png");
+  background-image: url("assets/recipix/recipixslide4.png");
   background-size: contain;
 }
 #recipixslide5 {
-  background-image: url("/assets/recipix/recipixteam.JPG");
+  background-image: url("assets/recipix/recipixteam.JPG");
 }
 
 #raceslide1 {
-  background-image: url("/assets/Backpackers/floras.png");
+  background-image: url("assets/Backpackers/floras.png");
 }
 #raceslide2 {
-  background-image: url("/assets/Backpackers/menu.gif");
+  background-image: url("assets/Backpackers/menu.gif");
 }
 #raceslide3 {
-  background-image: url("/assets/Backpackers/Flora.png");
+  background-image: url("assets/Backpackers/Flora.png");
 }
 #raceslide4 {
-  background-image: url("/assets/Backpackers/animals.gif");
+  background-image: url("assets/Backpackers/animals.gif");
 }
 #raceslide5 {
-  background-image: url("/assets/Backpackers/more_animals.gif");
+  background-image: url("assets/Backpackers/more_animals.gif");
 }
 #raceslide6 {
-  background-image: url("/assets/Backpackers/taking\ photo.gif");
+  background-image: url("assets/Backpackers/taking\ photo.gif");
 }
 #raceslide7 {
-  background-image: url("/assets/Backpackers/Journal.gif");
+  background-image: url("assets/Backpackers/Journal.gif");
 }
 #botbuddiesslide1 {
-  background-image: url("/assets/Uber/big\ data\ pipeline.png");
+  background-image: url("assets/Uber/big\ data\ pipeline.png");
 }
 #botbuddiesslide2 {
-  background-image: url("/assets/Uber/heatmap.png");
+  background-image: url("assets/Uber/heatmap.png");
   background-size: contain;
 }
 #botbuddiesslide3 {
-  background-image: url("/assets/Uber/autoLog.png");
+  background-image: url("assets/Uber/autoLog.png");
   background-size: contain;
 }
 #botbuddiesslide4 {
-  background-image: url("/assets/Uber/autoLog2.png");
+  background-image: url("assets/Uber/autoLog2.png");
   background-size: contain;
 }
 
