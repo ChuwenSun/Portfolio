@@ -366,7 +366,7 @@ button:hover {
   height: 320px;
   border-top-left-radius: 30%;
   border-bottom-right-radius: 30%;
-  background-image: url("/assets/me\ smile.png");
+  background-image: url("assets/me\ smile.png");
   background-color: #1b1c1c;
   background-repeat: no-repeat;
   background-position: center;
@@ -405,10 +405,10 @@ button:hover {
 }
 
 #videogames {
-  background-image: url("/assets/hobbies/game.png");
+  background-image: url("assets/hobbies/game.png");
 }
 #travel {
-  background-image: url("/assets/hobbies/travel.png");
+  background-image: url("assets/hobbies/travel.png");
 }
 #music {
   background-image: url("/assets/hobbies/music.svg");
@@ -527,10 +527,10 @@ button:hover {
   background-size: cover;
 }
 #recipixslide1 {
-  background-image: url("/assets/recipix/recipixslide1.jpg");
+  background-image: url("assets/recipix/recipixslide1.jpg");
 }
 #recipixslide2 {
-  background-image: url("/assets/recipix/recipixslide2.png");
+  background-image: url("assets/recipix/recipixslide2.png");
 }
 #recipixslide3 {
   background-image: url("/assets/recipix/recipixslide3.png");
