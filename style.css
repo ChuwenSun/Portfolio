@@ -527,21 +527,24 @@ button:hover {
   background-size: cover;
 }
 #recipixslide1 {
-  background-image: url("assets/recipix/recipixslide1.jpg");
+  background-image: url("assets/VerseMonk/HotSongs.png");
 }
 #recipixslide2 {
-  background-image: url("assets/recipix/recipixslide2.png");
+  background-image: url("assets/VerseMonk/AllSongListWithFilter.png");
 }
 #recipixslide3 {
-  background-image: url("assets/recipix/recipixslide3.png");
+  background-image: url("assets/VerseMonk/filterWorkingpng.png");
   background-size: contain;
 }
 #recipixslide4 {
-  background-image: url("assets/recipix/recipixslide4.png");
+  background-image: url("assets/VerseMonk/makingAnnotation-small.png");
   background-size: contain;
 }
 #recipixslide5 {
-  background-image: url("assets/recipix/recipixteam.JPG");
+  background-image: url("assets/VerseMonk/showingAnnotation_small.png");
+}
+#recipixslide6 {
+  background-image: url("assets/VerseMonk/dbSongExample.png");
 }
 
 #raceslide1 {
